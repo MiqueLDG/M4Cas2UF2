@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+  <personal-info>
+    <name>Nombre Apellido</name>
+    <email>correo@ejemplo.com</email>
+    <phone>123-456-7890</phone>
+    <address>Calle, Ciudad, País</address>
+  </personal-info>
+  <education>
+    <degree>
+      <name>Título de grado</name>
+      <school>Institución educativa</school>
+      <year>20XX</year>
+    </degree>
+    <degree>
+      <name>Título de posgrado</name>
+      <school>Institución educativa</school>
+      <year>20XX</year>
+    </degree>
+  </education>
+  <experience>
+    <job>
+      <title>Título del puesto</title>
+      <company>Nombre de la empresa</company>
+      <location>Ciudad, País</location>
+      <duration>Desde mes/año hasta mes/año</duration>
+      <description>Descripción del puesto y responsabilidades.</description>
+    </job>
+    <job>
+      <title>Título del puesto</title>
+      <company>Nombre de la empresa</company>
+      <location>Ciudad, País</location>
+      <duration>Desde mes/año hasta mes/año</duration>
+      <description>Descripción del puesto y responsabilidades.</description>
+    </job>
+  </experience>
+  <skills>
+    <skill>Tecnología/Competencia 1</skill>
+    <skill>Tecnología/Competencia 2</skill>
+    <skill>Tecnología/Competencia 3</skill>
+    <skill>Tecnología/Competencia 4</skill>
+  </skills>
+  <projects>
+    <project>
+      <title>Título del proyecto</title>
+      <description>Descripción breve del proyecto.</description>
+      <link>Enlace al proyecto (opcional)</link>
+    </project>
+    <project>
+      <title>Título del proyecto</title>
+      <description>Descripción breve del proyecto.</description>
+      <link>Enlace al proyecto (opcional)</link>
+    </project>
+  </projects>
+</portfolio>
