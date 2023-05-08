@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+    background-color: rgb(0, 156, 156);
+}
+/*NAV*/
+nav{
+    text-decoration:none;
+    color:inherit;
+    font-size: x-large;
+    font-weight: normal;
+    
+    } 
+    nav li{
+    display:inline-block;
+    width:15%;
+    color:black;
+    text-align: center;
+    }
+    nav li:hover{
+    background-color:#fff;
+    color:#000;
+    }   
+footer{
+    position:relative;
+    text-align: center;
+}
+
+    @media (max-width: 767px) {
+        .HeaderPaginaPrincipal{
+          float: none;
+          display: block;
+        }
+    }

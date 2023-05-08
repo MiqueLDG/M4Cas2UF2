@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<portfolio>
+<portfolio> 
   <personal-info>
-    <name>Nombre Apellido</name>
-    <email>correo@ejemplo.com</email>
-    <phone>123-456-7890</phone>
-    <address>Calle, Ciudad, País</address>
+    <name>Miquel Duran Galarzo</name>
+    <email>miquelduran@iesmontsia.org</email>
+    <phone>691 389 575</phone>
+    <address></address>
   </personal-info>
   <education>
     <degree>
-      <name>Título de grado</name>
-      <school>Institución educativa</school>
-      <year>20XX</year>
+      <name>Educació Secundaria Obligatoria</name>
+      <school>Institut de Tecnificació de les Terres de l'Ebre</school>
+      <year>2013-2017</year>
     </degree>
     <degree>
-      <name>Título de posgrado</name>
-      <school>Institución educativa</school>
-      <year>20XX</year>
+      <name>Batxillerat Cientificotecnologic</name>
+      <school>Institut de Tecnificació de les Terres de l'Ebre</school>
+      <year>2017-2020</year>
     </degree>
   </education>
-  <experience>
-    <job>
-      <title>Título del puesto</title>
-      <company>Nombre de la empresa</company>
-      <location>Ciudad, País</location>
-      <duration>Desde mes/año hasta mes/año</duration>
-      <description>Descripción del puesto y responsabilidades.</description>
-    </job>
-    <job>
-      <title>Título del puesto</title>
-      <company>Nombre de la empresa</company>
-      <location>Ciudad, País</location>
-      <duration>Desde mes/año hasta mes/año</duration>
-      <description>Descripción del puesto y responsabilidades.</description>
-    </job>
-  </experience>
   <skills>
     <skill>Tecnología/Competencia 1</skill>
     <skill>Tecnología/Competencia 2</skill>
@@ -42,9 +26,9 @@
   </skills>
   <projects>
     <project>
-      <title>Título del proyecto</title>
-      <description>Descripción breve del proyecto.</description>
-      <link>Enlace al proyecto (opcional)</link>
+      <title>Pagina Web</title>
+      <description>Pagina Web feta amb companys de classe per a un projecte usant HTML.</description>
+      <link></link>
     </project>
     <project>
       <title>Título del proyecto</title>
