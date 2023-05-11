@@ -15,24 +15,41 @@
           <h1>PORTOFOLIO</h1>
           <nav>
             <ul ALIGN="CENTER">
-              <li><a href="">Inici</a></li>          
-              <li><a href="">Treballs</a></li>  
+              <li><a href="">CURRICULUM</a></li>          
+            <li><a href="">TREBALLS</a></li>  
             </ul>
           </nav>
         </header>
         <main>
-          <h1>INFORMACIÓ PERSONAL</h1>
-          <p>Nom: <xsl:value-of select="portfolio/personal-info/name"/></p>
-          <p>Email: <xsl:value-of select="portfolio/personal-info/email"/></p>
-          <p>Telefon: <xsl:value-of select="portfolio/personal-info/phone"/></p>
-          <p>Adreça: <xsl:value-of select="portfolio/personal-info/address"/></p>
-          
+            <div class="Informacio">
+        <h1>INFORMACIÓ PERSONAL</h1>
+        <table>
+          <tr>
+            <td>Nom</td>
+            <td>Nom: <xsl:value-of select="portfolio/personal-info/name"/></td>
+          </tr>
+          <tr>
+            <td>Email</td>
+            <td>Email: <xsl:value-of select="portfolio/personal-info/email"/></td>
+          </tr>
+          <tr>
+            <td>Telèfon</td>
+            <td>Telefon: <xsl:value-of select="portfolio/personal-info/phone"/></td>
+          </tr>
+          <tr>
+            <td>Adreça</td>
+            <td>Adreça: <xsl:value-of select="portfolio/personal-info/address"/></td>
+          </tr>
+        </table>
+      </div>
+        <div class="TITULS">
           <h1>TITULS ACADEMICS</h1>
           <xsl:for-each select="portfolio/education/degree">
             <p>Nom: <xsl:value-of select="name"/></p>
             <p>Escola: <xsl:value-of select="school"/></p>
             <p>Any: <xsl:value-of select="year"/></p>
           </xsl:for-each>
+        </div>
         </main>
         <footer>
           <div>
