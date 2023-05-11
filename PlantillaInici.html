@@ -7,6 +7,19 @@
     <!-- Aquí se pueden agregar otros metadatos, como descripciones y palabras clave -->
     <link rel="stylesheet" href="CSS/Inici.css">
     <!-- Aquí se pueden agregar otras hojas de estilo -->
+    <script src="https://www.saxonica.com/saxon-js/documentation/SaxonJS/SaxonJS2.rt.js"></script>
+    <script>
+      function transformXML() {
+        const xsltPath = "tu-archivo.xsl";
+        const xmlPath = "tu-archivo.xml";
+
+        SaxonJS.transform({
+          stylesheetLocation: xsltPath,
+          sourceLocation: xmlPath,
+          destination: "#result"
+        });
+      }
+    </script>
   </head>
   <body>
     <header style="margin-top:0px ;">
@@ -32,7 +45,8 @@
   </body>
   <footer>
     <div>
-      <span class="mb-3 mb-md-0 text-body-secondary">© 2023 Company, Inc</span>
+      <span class="mb-3 mb-md-0 text-body-secondary">M4 Cas2 UF2
+      </span>
     </div>
   </footer>
 </html>

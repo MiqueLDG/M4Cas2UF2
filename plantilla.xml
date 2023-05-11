@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Portofolio.xsl"?>
 <portfolio> 
   <personal-info>
     <name>Miquel Duran Galarzo</name>
     <email>miquelduran@iesmontsia.org</email>
     <phone>691 389 575</phone>
-    <address></address>
+    <address>Avinguda Josep Tarradelles, 98</address>
   </personal-info>
   <education>
     <degree>
