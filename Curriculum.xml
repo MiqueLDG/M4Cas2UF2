@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="EstilsCurriculum.xsl"?>
+<portfolio> 
+  <personal-info>
+    <name>Miquel Duran Galarzo</name>
+    <email>miquelduran@iesmontsia.org</email>
+    <phone>691 389 575</phone>
+    <address>Avinguda Josep Tarradelles, 98</address>
+  </personal-info>
+  <education>
+    <degree>
+      <grau>Educació Secundaria Obligatoria</grau>
+      <especialitzacio>ESO</especialitzacio>
+      <school>Institut de Tecnificació de les Terres de l'Ebre</school>
+      <year>2013-2017</year>
+    </degree>
+    <degree>
+      <grau>Batxillerat</grau>
+      <especialitzacio>Cientificotecnologic</especialitzacio>
+      <school>Institut de Tecnificació de les Terres de l'Ebre</school>
+      <year>2017-2020</year>
+    </degree>
+    <degree>
+      <grau>Formació Professional de Grau Superior</grau>
+      <especialitzacio>Administració de Sistemes Informàtics en Xarxa-Desenvolupamnt d'Aplicacions Web</especialitzacio>
+      <school>Institut Montsià</school>
+      <year>2022-Actualment</year>
+    </degree>
+  </education>
+    <idiomes>
+      <idioma>Català</idioma>
+      <nivell>Natiu</nivell>
+      </idiomes>
+      <idiomes>
+      <idioma>Castella</idioma>
+      <nivell>Avançat</nivell>
+      </idiomes>
+      <idiomes>
+      <idioma>Anglés</idioma>
+      <nivell>Basic</nivell>
+    </idiomes>
+    <coneixements>
+      <llenguatges>
+        <programacio>
+          <nom>JAVA</nom>
+          <nivell>Bàsic</nivell>
+        </programacio>
+        <programacio>
+          <nom>C#</nom>
+          <nivell>Bàsic</nivell>
+        </programacio>
+        <marques>
+          <nom>HTML</nom>
+          <nivell>Mitjà</nivell>
+        </marques>
+        <marques>
+          <nom>XML</nom>
+          <nivell>Bàsic</nivell>
+        </marques>
+      </llenguatges>
+    </coneixements>
+  <projects>
+    <project>
+      <title>Pagina Web</title>
+      <description>Pagina Web feta amb companys de classe per a un projecte usant HTML.</description>
+      <link></link>
+    </project>
+    <project>
+      <title>Título del proyecto</title>
+      <description>Descripción breve del proyecto.</description>
+      <link>Enlace al proyecto (opcional)</link>
+    </project>
+  </projects>
+</portfolio>
