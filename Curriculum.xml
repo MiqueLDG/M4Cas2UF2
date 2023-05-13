@@ -49,6 +49,8 @@
           <nom>C#</nom>
           <nivell>Bàsic</nivell>
         </programacio>
+      </llenguatges>
+      <llenguatges>
         <marques>
           <nom>HTML</nom>
           <nivell>Mitjà</nivell>
@@ -59,16 +61,4 @@
         </marques>
       </llenguatges>
     </coneixements>
-  <projects>
-    <project>
-      <title>Pagina Web</title>
-      <description>Pagina Web feta amb companys de classe per a un projecte usant HTML.</description>
-      <link></link>
-    </project>
-    <project>
-      <title>Título del proyecto</title>
-      <description>Descripción breve del proyecto.</description>
-      <link>Enlace al proyecto (opcional)</link>
-    </project>
-  </projects>
 </portfolio>

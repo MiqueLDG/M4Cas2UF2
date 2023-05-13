@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="EstilsTreballs.xsl"?>
+<projectes>
+    <projecte>
+      <title>Pagina Web</title>
+      <description>Pagina Web feta amb companys de classe per a un projecte usant HTML.</description>
+      <link></link>
+    </projecte>
+    
+  </projectes>

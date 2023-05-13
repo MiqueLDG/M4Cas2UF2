@@ -1,0 +1,82 @@
+header{
+    text-align: center;
+    background-color: rgb(200, 50, 11);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+body {
+  background-image: url(/FOTOS/Fondo.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    margin: 0;
+    margin-bottom: 0;
+    height: 100%;
+       }
+/*NAV*/
+nav {
+    text-decoration: none;
+    color: inherit;
+    font-size: x-large;
+    font-weight: normal;
+    
+  }
+  
+  nav li {
+    display: inline-block;
+    width: 15%;
+    color: black;
+    text-align: center;
+  }
+  
+  nav li:hover {
+    background-color: lightgrey;
+    color: black;
+    border-radius: 10px;
+  }
+  
+  nav li a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  nav li a:focus,
+  nav li a:active {
+    outline: none;
+  }
+.current{
+  background-color: white;
+  border-radius: 10px;
+}
+h1, h2{
+  color: white;
+  text-align: center;
+
+}
+
+.PROJECTES{
+    text-align: center;
+    color: white;
+}
+footer{
+    position: static;
+    text-align: center;
+    color: white;
+}
+/*RESPONSIVE*/
+/*HEADER*/
+@media (max-width: 767px) {
+    .Header{
+      float: none;
+      display: block;
+      text-align: center;
+    }
+}
+    @media (max-width: 767px) {
+        .HeaderPaginaPrincipal{
+          float: none;
+          display: block;
+        }
+    }

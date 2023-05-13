@@ -15,8 +15,8 @@
           <h1>PORTOFOLIO</h1>
           <nav>
             <ul ALIGN="CENTER">
-              <li class="current"><a href="Treballs.xml">CURRICULUM</a></li>          
-            <li><a href="">TREBALLS</a></li>  
+              <li class="current"><a>CURRICULUM</a></li>          
+            <li><a href="Treballs.xml">TREBALLS</a></li>  
             </ul>
           </nav>
         </header>
@@ -78,12 +78,14 @@
           </table>
           <h2>CONEIXEMENTS INFORMÀTICS</h2>
           <table>
-          <xsl:for-each select="portfolio/coneixements/llenguatges"></xsl:for-each>
+          <xsl:for-each select="portfolio/coneixements/llenguatges/programacio">
            <tr>
             <td><xsl:value-of select="nom"/></td>
             <td><xsl:value-of select="nivell"/></td>
           </tr>
-            <tr>
+          </xsl:for-each>
+          <xsl:for-each select="portfolio/coneixements/llenguatges/marques">
+           <tr>
             <td><xsl:value-of select="nom"/></td>
             <td><xsl:value-of select="nivell"/></td>
           </tr>
