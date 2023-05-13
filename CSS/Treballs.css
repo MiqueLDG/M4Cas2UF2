@@ -50,15 +50,25 @@ nav {
   background-color: white;
   border-radius: 10px;
 }
-h1, h2{
+h1{
   color: white;
   text-align: center;
 
 }
 
 .PROJECTES{
-    text-align: center;
-    color: white;
+  background: rgba(255, 255, 255, 0.50);
+  background-size: 5%;
+  width: 80%;
+  margin: auto;
+  border-collapse: collapse;
+  font-size: x-large;
+  text-align: justify;
+  padding: 2%;
+  color: black
+}
+.Titul{
+  text-align: center;
 }
 footer{
     position: static;

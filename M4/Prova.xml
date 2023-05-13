@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/M4/Prova.xsl" ?>
+
+<llenguatges>
+  <llenguatge>
+    <nom>Python</nom>
+    <descripció>Python és un llenguatge de programació d'alt nivell, de propòsit general, que va ser creat per Guido van Rossum en 1991. 
+    Es caracteritza per ser fàcil d'aprendre i llegir, i per tenir una sintaxi clara i concisa
+    Python s'utilitza en una àmplia varietat d'aplicacions, incloent-hi desenvolupament web, anàlisi de dades, intel·ligència artificial, ciències de la computació i molt més. 
+    A més, Python és un llenguatge interpretat, cosa que significa que el codi pot ser executat sense necessitat d'un procés previ de compilació. Això ho fa ideal per el desenvolupament ràpid d'aplicacions.</descripció>
+    <datacreació>Desenvolupat al 1991</datacreació>
+    <foto>https://github.com/JosepRoldan/fotos_m4/blob/main/Python.png?raw=true</foto>
+  </llenguatge>
+  <llenguatge>
+    <nom>C#</nom>
+    <descripció>C# és un llenguatge de programació d'alt nivell, desenvolupat per Microsoft com a part de la seva plataforma .NET. 
+    Es caracteritza per la seva sintaxi similar a C++ i Java, la qual cosa ho fa fàcil d'aprendre per als programadors amb experiència en aquests llenguatges. 
+    A més, C# té una àmplia gamma de característiques de programació segura i d'alta qualitat, com a verificació de tipus en temps de compilació, control d'excepcions i suport per a la gestió automàtica de recursos.</descripció>
+    <datacreació>Desenvolupat al 1999</datacreació>
+    <foto>https://github.com/JosepRoldan/fotos_m4/blob/main/C%23.png?raw=true</foto>
+  </llenguatge>
+  <llenguatge>
+    <nom>JAVA</nom>
+    <descripció>Java és un llenguatge de programació d'alt nivell orientat a objectes i de propòsit general. 
+    Va ser desenvolupat per James Gosling i el seu equip a Sun Microsystems a la dècada de 1990, i va ser adquirit per Oracle Corporation el 2010.
+    Java és un dels llenguatges de programació més utilitzats a tot el món, i és popular tant en el desenvolupament d'aplicacions d'escriptori com de servidors i aplicacions web. 
+    Java també compta amb una àmplia biblioteca de classes que permet als desenvolupadors crear aplicacions més ràpidament i amb més eficiència. 
+    A més, Java és un llenguatge segur i escalable, i és àmpliament usat en aplicacions empresarials i en la indústria de la tecnologia de la informació.</descripció>
+    <datacreació>Desenvolupat al 1995</datacreació>
+    <foto>https://github.com/JosepRoldan/fotos_m4/blob/main/Java.png?raw=true</foto>
+  </llenguatge>
+
+</llenguatges>

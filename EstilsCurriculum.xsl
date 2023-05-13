@@ -8,7 +8,7 @@
         <title>Portofolio</title>
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <link rel="stylesheet" href="CSS/Inici.css"/>
+        <link rel="stylesheet" href="/CSS/Inici.css"/>
       </head>
       <body>
         <header style="margin-top:0px ;">
@@ -16,7 +16,7 @@
           <nav>
             <ul ALIGN="CENTER">
               <li class="current"><a>CURRICULUM</a></li>          
-            <li><a href="Treballs.xml">TREBALLS</a></li>  
+            <li><a href="/XML/Treballs.xml">TREBALLS</a></li>  
             </ul>
           </nav>
         </header>

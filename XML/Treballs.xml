@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/EstilsTreballs.xsl"?>
+<projectes>
+    <HTML>
+      <title>Espai de Jocs</title>
+      <description>Una petita Pagina Web feta amb companys de classe en la qual vam utilitzar HTML i CSS.</description>
+      <link>espaidejocs.cat</link>
+    </HTML>
+    <XML>
+      <title>Elaboració d'un petit document XML</title>
+      <description>Document XML amb informació sobre diferents llenguatges de programació. Va ser un projecte amb grup en el qual teniem que elaborar desde zero un document XML.</description>
+      <link></link>
+    </XML>
+  </projectes>

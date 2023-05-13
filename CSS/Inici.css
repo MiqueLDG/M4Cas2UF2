@@ -27,7 +27,7 @@ nav {
   nav li {
     display: inline-block;
     width: 15%;
-    color: black;
+    color: white;
     text-align: center;
   }
   
@@ -49,6 +49,7 @@ nav {
 .current{
   background-color: white;
   border-radius: 10px;
+  color: black;
 }
 h1, h2{
   color: white;
