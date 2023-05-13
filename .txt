@@ -1,8 +1,0 @@
-<p>Nom: <xsl:value-of select="portfolio/personal-info/name"/></p>
-          <p>Email: <xsl:value-of select="portfolio/personal-info/email"/></p>
-          <p>Telefon: <xsl:value-of select="portfolio/personal-info/phone"/></p>
-          <p>Adreça: <xsl:value-of select="portfolio/personal-info/address"/></p>
-
-<p>Nom: <xsl:value-of select="name"/></p>
-            <p>Escola: <xsl:value-of select="school"/></p>
-            <p>Any: <xsl:value-of select="year"/></p>
