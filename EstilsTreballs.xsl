@@ -29,7 +29,7 @@
           </xsl:for-each>
           <xsl:for-each select="projectes/XML">
           <h2><xsl:value-of select="title"/></h2>
-          <p><a href="/M4/Prova.xml"><img src="" width="300" height="75"></img></a></p>
+          <p><a href="/M4/Prova.xml" target="_blank"><img src="/FOTOS/XML.png" width="500" height="450"></img></a></p>
           <xsl:value-of select="description"/>
           </xsl:for-each>
         </div>
