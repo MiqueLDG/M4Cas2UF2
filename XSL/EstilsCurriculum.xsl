@@ -47,8 +47,8 @@
           <table>
           <xsl:for-each select="portfolio/education/degree">
           <tr>
-            <td>Grau</td>
-            <td><xsl:value-of select="grau"/></td>
+            <td class="grau">Grau</td>
+            <td class="grau"><xsl:value-of select="grau"/></td>
           </tr>
           <tr>
             <td>Especialitat</td>

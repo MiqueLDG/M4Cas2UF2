@@ -98,3 +98,21 @@ footer{/*PERSONALITZACIÓ DEL FOOTER*/
           display: block;
         }
     }
+
+/*NAV*/
+@media screen and (max-width: 600px) {
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  nav li {
+    width: 100%;
+  }
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}

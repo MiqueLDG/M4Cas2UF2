@@ -15,7 +15,7 @@
           <h1>PORTOFOLIO</h1>
           <nav>
             <ul ALIGN="CENTER">
-              <li><a  href="/XML/Curriculum.xml">CURRICULUM</a></li>          
+              <li><a  href="/index.xml">CURRICULUM</a></li>          
             <li class="current"><a>TREBALLS</a></li>  
             </ul>
           </nav>
